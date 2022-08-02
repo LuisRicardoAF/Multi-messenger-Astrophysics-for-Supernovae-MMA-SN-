@@ -1,12 +1,18 @@
 # Estrutura MMA-SN
 ## Luis Ricardo Arantes Filho - Doutorando CAP INPE
 
-###Acesso a estrutura MMA-SN por meio de comandos de dataframes Python. Solução para os dados do acervo OPENSN.
+## Acesso a estrutura MMA-SN por meio de comandos de dataframes Python. Solução para os dados do acervo OPENSN.
+
+Acesse o notebook para detalhes.
+
+Arquivo dataframe compartilhado via-google drive
+
+Acesse o link: 
 
 
 ## MMA-SN
 
-entende-se como Cyber-infraestrutura um conjunto de sistemas que permitem a manipulação e armazenamento de dados que podem ser distribuídos de
+Entende-se como Cyber-infraestrutura um conjunto de sistemas que permitem a manipulação e armazenamento de dados que podem ser distribuídos de
 forma a permitir a ciência dos dados e uma análise robusta e consistente da informação armazenada, para que as pessoas possam manipular e realizar produções científicas, tanto individualmente como em conjunto (ATKINS et al., 2003; BERMAN;
 BRADY, 2005; STEWART et al., 2009; STEWART et al., 2010).
 
