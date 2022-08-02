@@ -4,7 +4,35 @@
 ###Acesso a estrutura MMA-SN por meio de comandos de dataframes Python. Solução para os dados do acervo OPENSN.
 
 
-## Introdução
+## MMA-SN
+
+entende-se como Cyber-infraestrutura um conjunto de sistemas que permitem a manipulação e armazenamento de dados que podem ser distribuídos de
+forma a permitir a ciência dos dados e uma análise robusta e consistente da informação armazenada, para que as pessoas possam manipular e realizar produções científicas, tanto individualmente como em conjunto (ATKINS et al., 2003; BERMAN;
+BRADY, 2005; STEWART et al., 2009; STEWART et al., 2010).
+
+A Cyber-infraestrutura desenvolvida foi denominada MMA-Supernovae (MultiMessenger Astrophysics for Supernovae (MMA-SN)) (FILHO et al., 2021), esta estrutura foi desenvolvida com o propósito de tornar o acesso e manipulação de dados de SN algo mais simples tanto para a comunidade científica quanto para pessoas em geral.
+
+A inspiração para o desenvolvimento da estrutura reside no conceito de MMA (ALLEN et al., 2018; ALLEN et al., 2019; GEORGE; HUERTA, 2018), em que o objetivo é providenciar a coleta e análise de objetos astronômicos e os diferentes tipos de dados relacionados ao mesmo. A análise de informações de dados de múltiplas fontes, obtidas por meio de medidas instrumentais de alta resolução, tornou-se uma tarefa fundamental em todas as áreas científicas. O desenvolvimento de métodos especializados capazes de tratar esses objetos astronômicos com dados de várias fontes, com grande variabilidade e extensão de medidas, é um ponto chave para o estudo de fenômenos científicos complexos, especialmente os relacionados à análise sistêmica nas ciências espaciais e ambientais.
+
+<p align="center">
+<img src="https://github.com/LuisRicardoAF/Multi-messenger-Astrophysics-for-Supernovae-MMA-SN-/blob/main/Diagrama_MMA_completo.drawio.png">
+</p>
+
+
+Acesse pelos comandos.
+
+
+<p align="center">
+<img src="https://github.com/LuisRicardoAF/Multi-messenger-Astrophysics-for-Supernovae-MMA-SN-/blob/main/comandos.png">
+</p>
+
+Arquivo em formato .pkl MMA-SN.
+
+Mais detalhes serão adicionados em breve.
+
+
+
+## Importancia das SN
 A importância da classificação de supernovas se dá por muitos fatores. A classificação de supernovas de tipo Ia é objeto de diversas pesquisas e aplicações referentes a cosmologia e ao entendimento sobre como o universo se expande.
 De maneira fundamental, supernovas são explosões estelares que destroem completamente as estrelas e podem ser causadas pelo colapso gravitacional em estrelas massivas e por reações de acréscimo de massa em anãs brancas que desencadeiam explosões termonucleares de proporções extremas. As supernovas formadas por reações termonucleares em anãs brancas são o foco de diversos estudos e são denominadas supernovas Ia.
 
@@ -25,29 +53,6 @@ A análise espectral de supernovas tem sua importância, pois o espectro é o pr
 <p align="center"> Fonte: Blondin (2012)</p>
 
 Desta maneira se propõe uma abordagem que possa analisar e avaliar os espectros de supernovas antes e depois do pico de luminosidade máxima para que se possa gerar modelos de classificação que correlacionem estas fases com o tipo de supernovas. Desta maneira é possível avaliar supernovas de tipo Ia pelo espectro antes da luminosidade máxima e nas fases finais quando o brilho é mais fraco, permitindo ampliar as condições de contorno da classificação espectral de supernovas.
-
-## MMA-SN
-
-entende-se como Cyber-infraestrutura um conjunto de sistemas que permitem a manipulação e armazenamento de dados que podem ser distribuídos de
-forma a permitir a ciência dos dados e uma análise robusta e consistente da informação armazenada, para que as pessoas possam manipular e realizar produções científicas, tanto individualmente como em conjunto (ATKINS et al., 2003; BERMAN;
-BRADY, 2005; STEWART et al., 2009; STEWART et al., 2010).
-
-A Cyber-infraestrutura desenvolvida foi denominada MMA-Supernovae (MultiMessenger Astrophysics for Supernovae (MMA-SN)) (FILHO et al., 2021), esta estrutura foi desenvolvida com o propósito de tornar o acesso e manipulação de dados de SN algo mais simples tanto para a comunidade científica quanto para pessoas em geral.
-
-A inspiração para o desenvolvimento da estrutura reside no conceito de MMA (ALLEN et al., 2018; ALLEN et al., 2019; GEORGE; HUERTA, 2018), em que o objetivo é providenciar a coleta e análise de objetos astronômicos e os diferentes tipos de dados relacionados ao mesmo. A análise de informações de dados de múltiplas fontes, obtidas por meio de medidas instrumentais de alta resolução, tornou-se uma tarefa fundamental em todas as áreas científicas. O desenvolvimento de métodos especializados capazes de tratar esses objetos astronômicos com dados de várias fontes, com grande variabilidade e extensão de medidas, é um ponto chave para o estudo de fenômenos científicos complexos, especialmente os relacionados à análise sistêmica nas ciências espaciais e ambientais.
-
-<p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_DataScience_Files/blob/master/Diagrama_MMA_completo.drawio.png">
-</p>
-
-
-Acesse pelos comandos.
-
-
-<p align="center">
-<img src="https://github.com/LuisRicardoAF/Luis_Ricardo_DataScience_Files/blob/master/comandos.png">
-</p>
-
 
 ## Referências
 
