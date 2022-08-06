@@ -7,7 +7,7 @@ Acesse o notebook para detalhes.
 
 Arquivo dataframe compartilhado via-google drive
 
-Acesse o link: https://github.com/LuisRicardoAF/Multi-messenger-Astrophysics-for-Supernovae-MMA-SN-
+Acesse o link: https://drive.google.com/drive/folders/1RVNFGM9_4Pw-ihrwQy9Ab--ETTeu0jj6?usp=sharing
 
 
 ## MMA-SN
